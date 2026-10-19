@@ -1,13 +1,13 @@
 {
   "key": "tts",
   "name": "TTS",
-  "version": "0.2.0-alpha.9",
+  "version": "0.2.0-alpha.10",
   "description": "Text-to-speech via StreamElements, ElevenLabs, or local voices.",
   "icon": "ri:speak-line",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-tts/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-tts/releases/download/v0.2.0-alpha.9/plugin-tts.zip",
-  "sha256": "97e9aa52897bb9d55219e70adcf259533527ce5f793dcdea391004cbdbfe0723"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-tts/releases/download/v0.2.0-alpha.10/plugin-tts.zip",
+  "sha256": "aa0b60620355cb3ccb6d7ab0a4355d5bcbb066d8c6f72e12e2e23ce9a4c084d2"
 }
