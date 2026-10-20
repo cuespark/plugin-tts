@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-tts/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-tts/releases/download/v0.2.0-alpha.11/plugin-tts.zip",
-  "sha256": "3c78006dcc1dfb6be8ff1b285b907c0eb8f3db7135b4f5e2be0fef8a73f48b26"
+  "sha256": "d3eff31437887a407085861998e11b7ff5dcf3e6103cda388a892d6cdd6428fb"
 }
