@@ -6,8 +6,8 @@
   "icon": "ri:speak-line",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0-alpha.25",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-tts/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-tts/releases/download/v0.2.0-alpha.11/plugin-tts.zip",
-  "sha256": "6a5ddc1e1136de47e0687afcabaabc9e7801b2f647e0bacdb1a78ddaa8bfe4d5"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-tts/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-tts/releases/download/v0.2.0-alpha.11/plugin-tts.zip",
+  "sha256": "4e52f359eff73cbea14a0f942695ad4a1afb6436daf2c3d24581ddd5baa06420"
 }
